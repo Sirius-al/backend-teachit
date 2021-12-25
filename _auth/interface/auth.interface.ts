@@ -1,0 +1,1 @@
+export interface decodedUser { id: string, iat: number, exp: number }

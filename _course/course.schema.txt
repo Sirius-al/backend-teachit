@@ -1,0 +1,22 @@
+
+
+-> course title - string
+-> course category - [33, 89] // array of category ids
+-> course subcategory - [33, 34, 56, 56] // array of subcategory ids
+-> course cover photo - string - upload field
+
+
+category schema
+{
+    categoryName: "programming",
+    categoryId: "33",
+    subcategory: [33, 34, 56, 56] // array of subcategory ids
+}
+
+
+subcategory schema
+{
+    id: '',
+    subcategoryName: "",
+}
+
